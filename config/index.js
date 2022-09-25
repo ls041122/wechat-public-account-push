@@ -7,12 +7,12 @@ const USER_CONFIG = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: '',
+  APP_ID: 'wx812c92e098e78928',
 
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: '',
+  APP_SECRET: 'c7f2bdf2762c5f4ba4cbd3cf8e67314c',
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oKxlz6v1jYc0SepB2vVMH9UfBi6A',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '	FgPrP-6wV3F8Nr-2TdzmNFEbK_UY1cdU_6NtNKlyHmM',
+      useTemplateId: '9lYMvhPDi33HSMPqzjZJBCYjbI_S8ge6Ig5OMQ-qL1E',
       // 所在省份
       province: '广东',
       // 所在城市
